@@ -1,5 +1,31 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="GLF.lvlib:Engine.lvclass:AddWindowInstance.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="385"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="GLF.lvlib:Engine.lvclass:Core.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="523"/>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
