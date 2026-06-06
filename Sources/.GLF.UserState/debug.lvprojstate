@@ -14,18 +14,5 @@
         </Generic>
       </Probes>
     </VI>
-    <VI name="GLF.lvlib:Engine.lvclass:Core.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="523"/>
-        </Generic>
-      </Probes>
-    </VI>
   </Target>
 </Configuration>
