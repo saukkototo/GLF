@@ -14,5 +14,17 @@
         </Generic>
       </Probes>
     </VI>
+    <VI name="GLF.lvlib:Engine.lvclass:Core.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
   </Target>
 </Configuration>
