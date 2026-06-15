@@ -16,5 +16,4 @@
 	<Item Name="Parent Libraries" Type="Parent Libraries">
 		<Item Name="GLF.lvlib:IAmGLF.lvclass" Type="Parent" URL="../../IAmGLF/IAmGLF.lvclass"/>
 	</Item>
-	<Item Name="Community" Type="Folder"/>
 </LVClass>

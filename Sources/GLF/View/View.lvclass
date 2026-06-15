@@ -23,6 +23,7 @@
 
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
+		<Item Name="GLF.lvlib:IAmVIEW.lvclass" Type="Parent" URL="../../IAmVIEW/IAmVIEW.lvclass"/>
 		<Item Name="GLF.lvlib:IUseDVRHandler.lvclass" Type="Parent" URL="../../IUseDVRHandler/IUseDVRHandler.lvclass"/>
 	</Item>
 	<Item Name="View.ctl" Type="Class Private Data" URL="View.ctl">

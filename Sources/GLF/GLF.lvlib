@@ -13,6 +13,7 @@
 	<Item Name="Interfaces" Type="Folder">
 		<Item Name="IAmEngine.lvclass" Type="LVClass" URL="../IAmEngine/IAmEngine.lvclass"/>
 		<Item Name="IAmGLF.lvclass" Type="LVClass" URL="../IAmGLF/IAmGLF.lvclass"/>
+		<Item Name="IAmVIEW.lvclass" Type="LVClass" URL="../IAmVIEW/IAmVIEW.lvclass"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
