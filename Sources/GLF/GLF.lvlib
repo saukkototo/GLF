@@ -23,6 +23,7 @@
 		<Item Name="Toolbox.lvlib" Type="Library" URL="../Toolbox/Toolbox.lvlib"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
+	<Item Name="EngineErrorHandler.lvclass" Type="LVClass" URL="../EngineErrorHandler/EngineErrorHandler.lvclass"/>
 	<Item Name="View.lvclass" Type="LVClass" URL="../View/View.lvclass"/>
 	<Item Name="Window.lvclass" Type="LVClass" URL="../Window/Window.lvclass"/>
 	<Item Name="WindowEventInterface.lvclass" Type="LVClass" URL="../WindowEventInterface/WindowEventInterface.lvclass"/>
