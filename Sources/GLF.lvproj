@@ -18,6 +18,7 @@
 			<Item Name="Benchmarks_DVR.vi" Type="VI" URL="../Benchmarks/Benchmarks_DVR.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
+			<Item Name="Tests_EventQueue.vi" Type="VI" URL="../Tests/Tests_EventQueue.vi"/>
 			<Item Name="Tests_misc.vi" Type="VI" URL="../Tests/Tests_misc.vi"/>
 			<Item Name="Tests_Window.vi" Type="VI" URL="../Tests/Tests_Window.vi"/>
 		</Item>
